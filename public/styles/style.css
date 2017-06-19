@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+
+}
+
+td {
+  padding: 8px;
+}

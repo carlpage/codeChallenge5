@@ -6,11 +6,18 @@ h1 {
   text-align: center;
 }
 
+table {
+  margin-top: 30px;
+}
+
 table, th, td {
   border: 1px solid black;
+  font-size: 18px;
+  padding: 8px;
 
 }
 
-td {
-  padding: 8px;
+th {
+  height: 50px;
+  width: 150px
 }
